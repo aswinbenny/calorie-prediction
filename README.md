@@ -42,7 +42,7 @@ You can access the dataset from the official competition page here:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/calorie-burn-predictor.git
+git clone https://github.com/aswinbenny/calorie-prediction.git
 cd calorie-burn-predictor
 ```
 
